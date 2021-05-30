@@ -7,7 +7,7 @@ In this work, we design a image transfer network, and use all kinds of network p
 <p align="center">Figure 2. The proposed image transfer network without being pruned.</p>
 
 ![Figure 3](./Fast_style_transfer/images/web_demo.jpg)
-<p align="center">Figure 3. Web demo of our work</p>
+<p align="center">Figure 3. Web demo of our work.</p>
 
 
 # Experimental
